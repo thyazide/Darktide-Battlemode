@@ -5,8 +5,6 @@ Remove whole sections of the mod stack that don't need to be active all the time
 
 These bash scripts are for Linux, these will not work in windows. Though versions of these could be made as batch scripts. I'm barely competent at scripting and had to resort to help from chatgpt to get these made and working properly.   
 
-[**Download** ](ttps://raw.githubusercontent.com/thyazide/Darktide-Battlemode/refs/heads/main/Battle_mode.zip)
-
 # Installation
 
 1. Make two new folders in `*/SteamLibrary/steamapps/common/Warhammer 40,000 DARKTIDE/`
