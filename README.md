@@ -14,7 +14,7 @@ These bash scripts are for Linux, these will not work in windows. Though version
 
 	Sort all your mods, ones you want to use in matches (`/battle`) and ones you use when you manager your characters outside of matches (`/Character_management`). Mods you want always active just go into the normal mods folder. 
 
-2. Extract the zip into the Darktide folder `*/SteamLibrary/steamapps/common/Warhammer 40,000 DARKTIDE/`
+2. Extract the zip into the Darktide folder (or move the .sh files from /Darktide_bash_scripts/) folder to `*/SteamLibrary/steamapps/common/Warhammer 40,000 DARKTIDE/`
 3. You'll need to edit all three .sh files using your favorite text editor. At the top of the file find:
 
 	`GAME_DIR="<insert path to steam library>/SteamLibrary/steamapps/common/Warhammer 40,000 DARKTIDE"`
