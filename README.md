@@ -9,8 +9,8 @@ These bash scripts are for Linux, these will not work in windows. Though version
 
 1. Make two new folders in `*/SteamLibrary/steamapps/common/Warhammer 40,000 DARKTIDE/`
 
-	`/battle`
-	`/Character_management`
+	- `/battle`
+	- `/Character_management`
 
 	Sort all your mods, ones you want to use in matches (`/battle`) and ones you use when you manager your characters outside of matches (`/Character_management`). Mods you want always active just go into the normal mods folder. 
 
